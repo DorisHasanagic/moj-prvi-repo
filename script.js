@@ -3,8 +3,9 @@
 
 console.log("prvi");
 console.log("new");
+console.log("tri");
 
-//izmjena:
+//dodavanje/izmjena:
 //git add .
 //git commit -m "neka poruka"
 //git push origin main
